@@ -1,10 +1,10 @@
 ﻿{
   "variants": {
     "mini-rgb-display-esp32-v1": {
-      "version": "3.1.22",
-      "url":     "https://raw.githubusercontent.com/Kreat0r1/MiniRGBDisplayOTA/main/firmware-3.1.22.bin",
-      "sig_url": "https://raw.githubusercontent.com/Kreat0r1/MiniRGBDisplayOTA/main/firmware-3.1.22.bin.sig",
-      "sha256":  "ee75faeff57c171ddc02c324d763fff34305c384960209def1d2cf7bd0a2856e"
+      "version": "3.1.23",
+      "url":     "https://raw.githubusercontent.com/Kreat0r1/MiniRGBDisplayOTA/main/firmware-3.1.23.bin",
+      "sig_url": "https://raw.githubusercontent.com/Kreat0r1/MiniRGBDisplayOTA/main/firmware-3.1.23.bin.sig",
+      "sha256":  "669b59dda08479d799fa5cdc2d58cf974e761c6d54499f3f092b1d7a2967d52c"
     }
   }
 }
