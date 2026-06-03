@@ -1,0 +1,6 @@
+# Never commit signing keys or local build artefacts.
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+
